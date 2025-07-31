@@ -12,12 +12,6 @@ Kimia Farma is one of the leading pharmaceutical companies in Indonesia. As part
 - `kf_kantor_cabang` – Branch data
 - `kf_product` – Product data
 
-## 🔧 Tools & Technologies
-
-- **Google BigQuery** 
-- **SQL** 
-- **Google Looker Studio** 
-
 ## ✅ Key Tasks
 
 1. **Importing Dataset to BigQuery**
